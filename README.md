@@ -3,7 +3,8 @@
  **Business objective**
    Generate the features from the dataset and use them to recommend the books according to the users
 
- **Data Set Details: **
+ **Data Set Details:**
+ 
 Users :-It contains user ID’s have been anonymized and map to integers. demographic data is provided (location, age if available) otherwise this fields contain null values.
 
 Books :- Books are identified by their respective ISBN.
